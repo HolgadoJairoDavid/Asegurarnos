@@ -12,4 +12,7 @@ import AuferTambiénInvitadoVue from "./components/AuferTambiénInvitado.vue";
   background-color: red;
   color: white;
 }
+<template>
+  <div>Hola, soy el cambio de Camilo</div>
+</template>
 </style>
