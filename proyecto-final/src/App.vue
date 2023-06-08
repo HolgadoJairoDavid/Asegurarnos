@@ -2,9 +2,17 @@
 import ErnestoEditaAcáVue from "./components/ErnestoEditaAcá.vue";
 import NicoEditaAcáVue from "./components/NicoEditaAcá.vue";
 import AuferTambiénInvitadoVue from "./components/AuferTambiénInvitado.vue";
+
+const funcionAufer= () => {
+  console.log("Mensaje de la funcion Aufer")
+}
 </script>
 <template>
-  <div>Bienvenidos al Proyecto Final</div>
+  <div>
+    <div>Bienvenidos al Proyecto Final</div>
+    <H1>Integrantes</h1>
+    <div>Aufer Victoriano Contreras Cáceres</div>
+  </div>
 </template>
 
 <style scoped>
